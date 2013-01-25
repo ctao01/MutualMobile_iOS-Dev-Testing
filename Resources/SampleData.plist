@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>comment</key>
+		<string>This city is so beautiful!</string>
+		<key>locationCoordinates</key>
+		<dict>
+			<key>latitude</key>
+			<real>30.2651676</real>
+			<key>longitude</key>
+			<real>-97.76034540000001</real>
+		</dict>
+		<key>locationName</key>
+		<string>Town Lake Park</string>
+		<key>name</key>
+		<string>Johnny Appleseed</string>
+		<key>timestamp</key>
+		<date>2011-04-10T17:07:00Z</date>
+	</dict>
+	<dict>
+		<key>comment</key>
+		<string>What an aweseome party!</string>
+		<key>locationCoordinates</key>
+		<dict>
+			<key>latitude</key>
+			<real>30.2687256</real>
+			<key>longitude</key>
+			<real>-97.7455645</real>
+		</dict>
+		<key>locationName</key>
+		<string>The Belmont</string>
+		<key>name</key>
+		<string>Bill Smith</string>
+		<key>timestamp</key>
+		<date>2011-04-01T18:15:00Z</date>
+	</dict>
+	<dict>
+		<key>comment</key>
+		<string>This new iPhone is beautiful.</string>
+		<key>locationCoordinates</key>
+		<dict>
+			<key>latitude</key>
+			<real>37.33191</real>
+			<key>longitude</key>
+			<real>-122.031262</real>
+		</dict>
+		<key>locationName</key>
+		<string>Apple HQ</string>
+		<key>name</key>
+		<string>Jonathan Ive</string>
+		<key>timestamp</key>
+		<date>2011-04-07T17:23:00Z</date>
+	</dict>
+	<dict>
+		<key>comment</key>
+		<string>Working on some awesome new products.</string>
+		<key>locationCoordinates</key>
+		<dict>
+			<key>latitude</key>
+			<real>37.33191</real>
+			<key>longitude</key>
+			<real>-122.031262</real>
+		</dict>
+		<key>locationName</key>
+		<string>Apple HQ</string>
+		<key>name</key>
+		<string>Steve Jobs</string>
+		<key>timestamp</key>
+		<date>2011-04-07T18:16:00Z</date>
+	</dict>
+	<dict>
+		<key>comment</key>
+		<string>Developers, Developers, Developers!</string>
+		<key>locationCoordinates</key>
+		<dict>
+			<key>latitude</key>
+			<real>47.658297</real>
+			<key>longitude</key>
+			<real>-122.141439</real>
+		</dict>
+		<key>locationName</key>
+		<string>Microsoft HQ</string>
+		<key>name</key>
+		<string>Steve Balmer</string>
+		<key>timestamp</key>
+		<date>2011-04-07T19:45:22Z</date>
+	</dict>
+	<dict>
+		<key>comment</key>
+		<string>I wish I worked for this company.</string>
+		<key>locationCoordinates</key>
+		<dict>
+			<key>latitude</key>
+			<real>30.281104</real>
+			<key>longitude</key>
+			<real>-97.744998</real>
+		</dict>
+		<key>locationName</key>
+		<string>Mutual Mobile HQ</string>
+		<key>name</key>
+		<string>Mark Zuckerberg</string>
+		<key>timestamp</key>
+		<date>2011-04-02T22:35:00Z</date>
+	</dict>
+	<dict>
+		<key>comment</key>
+		<string>MM Social is going to sink Twitter. :-(</string>
+		<key>locationCoordinates</key>
+		<dict>
+			<key>latitude</key>
+			<real>37.782163</real>
+			<key>longitude</key>
+			<real>-122.400591</real>
+		</dict>
+		<key>locationName</key>
+		<string>Twitter HQ</string>
+		<key>name</key>
+		<string>Biz Stone</string>
+		<key>timestamp</key>
+		<date>2011-04-02T18:05:00Z</date>
+	</dict>
+</array>
+</plist>
